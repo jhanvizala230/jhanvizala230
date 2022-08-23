@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jhanvizala230
+- 👋 Hi, I’m Jhanvi Zala
 - 👀 I’m interested in Learning the advance technologis such as Artificial Intelligence and Big Data
 - 🌱 I’m currently learning the technologies which can be use to build efficient machine learning model
 - 💞️ I’m looking to collaborate on research technolgies which makea human more flexible and sustainable
